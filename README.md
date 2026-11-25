@@ -106,7 +106,7 @@ Olist-Customer-Satisfaction-and-Reviews-Analysis-Olist-Dataset/
 ├── README.md
 ├── Customer Satisfaction and Reviews.ipynb
 └── Dashboard/
-    └── Dashboard_Customer_Satisfaction_and_Reviews.png
+    └── Dashboard_Customer_Satisfaction_and_Reviews_Analysis.png
 ```
 
 ## Conclusion
