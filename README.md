@@ -90,7 +90,7 @@ The dashboard brings together the main findings from this analysis, covering rev
 
 ### Dashboard Screenshot
 
-![Customer Satisfaction & Reviews Dashboard](Dashboard/Dashboard_Customer_Satisfaction _and_Reviews_Analysis.png)
+![Customer Satisfaction & Reviews Dashboard](Dashboard/Dashboard_Customer_Satisfaction_and_Reviews_Analysis.png)
 
 ## Business Implications
 
